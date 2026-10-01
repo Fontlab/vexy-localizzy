@@ -1,473 +1,528 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/foundations/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/foundations/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/foundations/what-this-part-knows/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/foundations/what-this-part-knows/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/foundations/what-localization-is/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/foundations/what-localization-is/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/foundations/a-short-history/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/foundations/a-short-history/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/foundations/characters-and-encodings/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/foundations/characters-and-encodings/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/foundations/locales-and-cldr/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/foundations/locales-and-cldr/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/foundations/numbers-dates-and-units/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/foundations/numbers-dates-and-units/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/foundations/plurals-gender-and-message-formats/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/foundations/plurals-gender-and-message-formats/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/foundations/scripts-direction-and-fonts/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/foundations/scripts-direction-and-fonts/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/foundations/space-and-growth/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/foundations/space-and-growth/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/foundations/culture-and-cost/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/foundations/culture-and-cost/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/engineering/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/engineering/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/engineering/what-this-part-knows/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/engineering/what-this-part-knows/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/engineering/world-ready-design/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/engineering/world-ready-design/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/engineering/externalizing-strings/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/engineering/externalizing-strings/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/engineering/placeholders-and-grammar/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/engineering/placeholders-and-grammar/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/engineering/qt-instrumentation/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/engineering/qt-instrumentation/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/engineering/qt-toolchain-and-runtime/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/engineering/qt-toolchain-and-runtime/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/engineering/web-and-typescript/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/engineering/web-and-typescript/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/engineering/mirroring-and-rtl/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/engineering/mirroring-and-rtl/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/engineering/rendering-and-opentype/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/engineering/rendering-and-opentype/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/engineering/testing-world-readiness/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/engineering/testing-world-readiness/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/formats/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/formats/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/formats/what-this-part-knows/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/formats/what-this-part-knows/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/formats/qt-ts/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/formats/qt-ts/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/formats/gettext-po/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/formats/gettext-po/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/formats/xliff/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/formats/xliff/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/formats/json-android-apple/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/formats/json-android-apple/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/formats/tmx-and-tbx/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/formats/tmx-and-tbx/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/formats/the-canonical-model/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/formats/the-canonical-model/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/formats/conversion-tools/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/formats/conversion-tools/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/formats/byte-preserving-edits/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/formats/byte-preserving-edits/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/formats/identity-and-upgrade/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/formats/identity-and-upgrade/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/terminology/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/terminology/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/terminology/what-this-part-knows/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/terminology/what-this-part-knows/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/terminology/terminology-work/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/terminology/terminology-work/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/terminology/a-glossary-schema/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/terminology/a-glossary-schema/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/terminology/the-fallback-original-term/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/terminology/the-fallback-original-term/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/terminology/core-and-project-memories/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/terminology/core-and-project-memories/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/terminology/evidence-and-attestation/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/terminology/evidence-and-attestation/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/terminology/house-voice-across-languages/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/terminology/house-voice-across-languages/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/terminology/word-formation-and-derivation/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/terminology/word-formation-and-derivation/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/terminology/do-not-translate-with-restraint/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/terminology/do-not-translate-with-restraint/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/terminology/ledgers-and-decisions/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/terminology/ledgers-and-decisions/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/interface/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/interface/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/interface/what-this-part-knows/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/interface/what-this-part-knows/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/interface/headline-style/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/interface/headline-style/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/interface/no-added-detail/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/interface/no-added-detail/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/interface/mnemonics-shortcuts-and-keys/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/interface/mnemonics-shortcuts-and-keys/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/interface/plurals-in-practice/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/interface/plurals-in-practice/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/interface/placeholders-and-agreement/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/interface/placeholders-and-agreement/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/interface/registers-of-the-interface/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/interface/registers-of-the-interface/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/interface/source-text-as-evidence/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/interface/source-text-as-evidence/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/interface/language-portraits/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/interface/language-portraits/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/interface/review-in-the-running-app/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/interface/review-in-the-running-app/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/machine-translation/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/machine-translation/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/machine-translation/what-this-part-knows/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/machine-translation/what-this-part-knows/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/machine-translation/from-rules-to-models/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/machine-translation/from-rules-to-models/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/machine-translation/context-engineering/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/machine-translation/context-engineering/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/machine-translation/memory-first-pipelines/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/machine-translation/memory-first-pipelines/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/machine-translation/glossary-enforcement/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/machine-translation/glossary-enforcement/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/machine-translation/the-placeholder-protocol/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/machine-translation/the-placeholder-protocol/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/machine-translation/routing-batching-and-cost/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/machine-translation/routing-batching-and-cost/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/machine-translation/quality-estimation-and-judges/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/machine-translation/quality-estimation-and-judges/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/machine-translation/post-editing/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/machine-translation/post-editing/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/machine-translation/data-terms-and-trust/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/machine-translation/data-terms-and-trust/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/process/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/process/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/process/what-this-part-knows/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/process/what-this-part-knows/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/process/continuous-localization/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/process/continuous-localization/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/process/branches-and-merges/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/process/branches-and-merges/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/process/the-qa-gate/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/process/the-qa-gate/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/process/lqa-and-mqm/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/process/lqa-and-mqm/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/process/pseudo-localization-and-layout/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/process/pseudo-localization-and-layout/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/process/review-tools-and-people/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/process/review-tools-and-people/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/process/vendors-tms-and-projects/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/process/vendors-tms-and-projects/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/process/help-docs-and-media/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/process/help-docs-and-media/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/process/release-provenance-and-roadmap/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/process/release-provenance-and-roadmap/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/toolkit/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/toolkit/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/toolkit/classification/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/toolkit/ci/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/toolkit/cli/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/toolkit/classification/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/toolkit/corpus/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/toolkit/cli/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/toolkit/distillation/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/toolkit/corpus/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/toolkit/extraction/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/toolkit/distillation/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/toolkit/formats/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/toolkit/editorial/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/toolkit/legacy-sources/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/toolkit/extraction/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/toolkit/memories/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/toolkit/formats/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/toolkit/quality/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/toolkit/getting-started/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/toolkit/retrieval/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/toolkit/json-files/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/toolkit/review/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/toolkit/legacy-sources/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/toolkit/translation/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/toolkit/memories/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/toolkit/upgrade/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/toolkit/project/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/toolkit/design/review-fidelity/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/toolkit/pseudo/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://fontlab.dev/vexy-localizzy/fl1992mk/toolkit/design/review/</loc>
-        <lastmod>2026-09-29</lastmod>
+        <loc>https://fontlab.dev/vexy-localizzy/toolkit/qt-tools/</loc>
+        <lastmod>2026-10-01</lastmod>
+        <changefreq>daily</changefreq>
+    </url>
+    <url>
+        <loc>https://fontlab.dev/vexy-localizzy/toolkit/quality/</loc>
+        <lastmod>2026-10-01</lastmod>
+        <changefreq>daily</changefreq>
+    </url>
+    <url>
+        <loc>https://fontlab.dev/vexy-localizzy/toolkit/retrieval/</loc>
+        <lastmod>2026-10-01</lastmod>
+        <changefreq>daily</changefreq>
+    </url>
+    <url>
+        <loc>https://fontlab.dev/vexy-localizzy/toolkit/review/</loc>
+        <lastmod>2026-10-01</lastmod>
+        <changefreq>daily</changefreq>
+    </url>
+    <url>
+        <loc>https://fontlab.dev/vexy-localizzy/toolkit/scanning/</loc>
+        <lastmod>2026-10-01</lastmod>
+        <changefreq>daily</changefreq>
+    </url>
+    <url>
+        <loc>https://fontlab.dev/vexy-localizzy/toolkit/translation/</loc>
+        <lastmod>2026-10-01</lastmod>
+        <changefreq>daily</changefreq>
+    </url>
+    <url>
+        <loc>https://fontlab.dev/vexy-localizzy/toolkit/troubleshooting/</loc>
+        <lastmod>2026-10-01</lastmod>
+        <changefreq>daily</changefreq>
+    </url>
+    <url>
+        <loc>https://fontlab.dev/vexy-localizzy/toolkit/upgrade/</loc>
+        <lastmod>2026-10-01</lastmod>
+        <changefreq>daily</changefreq>
+    </url>
+    <url>
+        <loc>https://fontlab.dev/vexy-localizzy/toolkit/vocabulary/</loc>
+        <lastmod>2026-10-01</lastmod>
+        <changefreq>daily</changefreq>
+    </url>
+    <url>
+        <loc>https://fontlab.dev/vexy-localizzy/toolkit/design/architecture/</loc>
+        <lastmod>2026-10-01</lastmod>
+        <changefreq>daily</changefreq>
+    </url>
+    <url>
+        <loc>https://fontlab.dev/vexy-localizzy/toolkit/design/review-fidelity/</loc>
+        <lastmod>2026-10-01</lastmod>
+        <changefreq>daily</changefreq>
+    </url>
+    <url>
+        <loc>https://fontlab.dev/vexy-localizzy/toolkit/design/review/</loc>
+        <lastmod>2026-10-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
 </urlset>
